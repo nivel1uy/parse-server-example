@@ -10,12 +10,12 @@
   "license": "MIT",
   "dependencies": {
     "kerberos": "~0.0.x",
-    "parse-server": ">=2.2.2"
+    "parse-server": "*"
   },
   "scripts": {
     "start": "node index.js"
   },
   "engines": {
-    "node": ">=4.3"
+    "node": ">=6.0"
   }
 }
